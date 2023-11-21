@@ -1,0 +1,46 @@
+nav{
+    display: flex;
+    position: fixed;
+gap: 25px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins;
+
+
+}
+.LOGO{
+    margin-right: 950px;
+    text-transform: none;
+    font-size: 2em;
+    margin-left: 40px;
+}
+
+footer{
+    padding-top: 50px;
+}
+
+img{
+    width: 50%;
+    position: absolute;
+    right: 5px;
+    bottom: 200px;
+}
+.Text{
+
+margin: auto;
+margin-left: 50px;
+margin-top: 160px;
+}
+a{
+    text-transform: none;
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+body {
+    color: #253a62;
+}
